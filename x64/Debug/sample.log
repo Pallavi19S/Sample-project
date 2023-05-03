@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(26,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(26,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(27,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(27,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(28,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(28,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(41,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(46,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(48,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pallavi S\source\repos\sample\sample\main.cpp(48,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sample.vcxproj -> C:\Users\Pallavi S\source\repos\sample\x64\Debug\sample.exe
